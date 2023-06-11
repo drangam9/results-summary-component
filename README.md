@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/results-summary-component-with-html-and-css-FYs4YINCkt)
 - Live Site URL: [Results Summary Component](https://drangam9.github.io/results-summary-component/)
 
 ## My process
